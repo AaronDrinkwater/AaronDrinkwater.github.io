@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "My Unreal Plugin"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_01.jpg
+img: unreal_logo.jpg
 carousel:
 - single01.jpg
 - single02.jpg
