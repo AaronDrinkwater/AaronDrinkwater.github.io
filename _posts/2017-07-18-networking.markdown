@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Networking"
+title:  "Networking: A brief discussion and some thoughts"
 date:   2017-07-18 16:54:46
 author: James Huxtable
 categories: 
