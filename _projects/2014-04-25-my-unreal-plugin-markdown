@@ -2,16 +2,16 @@
 layout: project
 title:  "My Unreal Plugin"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: James Huxtable
 categories:
 - project
-img: unreal_logo.jpg 
+img: unreal_logo.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
-client: Wonder Corp.
+tagged: Games
+client: None.
 website: http://blacktie.co
 ---
 #### YOUR PROJECT NAME
