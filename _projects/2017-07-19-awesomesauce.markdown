@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: James Huxtable
 categories:
 - project
-img: portfolio_10.jpg
+img: xna-logo1.png
 thumb: thumb02.jpg
 carousel:
 - asge_01.png
