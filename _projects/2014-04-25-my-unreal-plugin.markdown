@@ -11,7 +11,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: Games
-client: None.
+client: None
 website: http://blacktie.co
 ---
 #### YOUR PROJECT NAME
