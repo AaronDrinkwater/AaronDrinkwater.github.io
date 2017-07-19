@@ -11,11 +11,10 @@ carousel:
 - asge_01.png
 - asge_02.png
 tagged: C++, Engines, Development
-client: Wonder Corp.
 website: https://github.com/HuxyUK/AwesomeSauceGE
 ---
 #### Awesome Sauce Game Engine
-Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA style. It's design is to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
+Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA mould. It is designed to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
 
 #### Foundations
 ASGE is built upon the following technologies
