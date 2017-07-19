@@ -4,7 +4,7 @@ title:  "Networking: A brief discussion and some thoughts"
 date:   2017-07-18 16:54:46
 author: James Huxtable
 categories: 
-- blog
+- Blog
 - Networking
 - Development
 img: post02.jpg
