@@ -15,8 +15,10 @@ thumb: thumb01.jpg
 
 When using static allocation, the memory we use is stored in a very fast contigous block known as the stack. Each function contributes to the stack placing any static data on to it. When the function is unwound or exited, the memory is freed. The stack has limits in that it is restricted in size and data can not exist outside of it's original scope. Dynamic memory instead uses the region known as the heap. The heap is a large region of memory where allocations and deallocations can happen during runtime and do not obey scope. For example, If you were to allocate memory inside the function, when the function exits the memory remains allocated, it is not freed. This can lead to memory leaks, so care needs to be taken. 
 
+
 #### Why do we use it?
 Because the stack is restrictive
+
 
 #### How do we use it?
 ```C++
