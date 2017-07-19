@@ -17,13 +17,13 @@ When using static allocation, the memory we use is stored in a very fast contigo
 <br />
 
 #### Why do we use it?
-Because the stack is restrictive  
+Because the stack is restrictive   
 
 #### How do we use it?
 ```C++
 int  static_int  = 2;
 int* dynamic_int = new int(2);
-``` \\ 
+```  
 
 #### How do we free it?
 ```C++
