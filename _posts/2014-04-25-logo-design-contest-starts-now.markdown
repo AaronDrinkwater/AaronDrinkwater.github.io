@@ -22,7 +22,7 @@ The for loop is simply defined using:
 2. A condition to check the value against after every iteration
 3. An operation to perform after every iteration
 
-```c++ 
+```
 for( int i=0; i<10; ++i )
 {
   // Logic goes here...
