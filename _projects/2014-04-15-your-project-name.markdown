@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "AwesomeSauce Game Engine"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: James Huxtable
 categories:
 - project
 img: portfolio_10.jpg
@@ -11,12 +11,18 @@ carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
+tagged: C++, Engines, Development
 client: Wonder Corp.
-website: http://blacktie.co
+website: https://github.com/HuxyUK/AwesomeSauceGE
 ---
-####YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+####Awesome Sauce Game Engine
+Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA style. It's design is to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
 
-####Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+####Foundations
+ASGE is built upon the following technologies
+1. C++11
+2. GLEW
+3. GLFW
+4. GLM
+5. STB
+6. PDCurses
