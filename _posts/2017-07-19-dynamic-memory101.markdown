@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Dynamic Memory 101"
-date: 2017-07-19 13:30:00
+title: Dynamic Memory 101
+date: 2017-07-19T13:30:00.000Z
 author: James Huxtable
-categories: 
-- Blog 
-- Low-Level Programming
-- Development
+categories:
+  - Blog
+  - Low-Level Programming
+  - Development
+  - Nothing Interesting
 img: post01.jpg
 thumb: c_thumb.jpg
+published: true
 ---
 
 <b>Dynamic Memory</b> is the use of memory during runtime. It is dynamic in that the compiler is unable to ascertain the exact amount of memory its allocation will require. This differs from static allocation where its size is determined at compile time and its location in memory is the stack. When objects are dynamically allocated they use a special region of memory called the heap. Let's look at those differences. <!--more-->
@@ -35,4 +37,4 @@ if ( dynamic_int )
 }
 ```
 
-Dynamic memory is a complex and detailed area of C++ programming. There is still much to learn, but understanding why it exists and how it compares to static allocation can aid you in it's usage and understanding. Till next time. 
+Dynamic memory is a complex and detailed area of C++ programming. There is still much to learn, but understanding why it exists and how it compares to static allocation can aid you in it's usage and understanding. Till next time.
