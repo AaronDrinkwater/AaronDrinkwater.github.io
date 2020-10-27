@@ -61,15 +61,15 @@ email: AaronDrinkwaterBT@gmail.com
 
 # Members information. Shown on About page.
 members:
-  - name: James Huxtable
-    position: Da Man!
-    text: I am a keen and passionate games developer, whose love of programming extends to mentoring others to allow them to develop games for themselves.
+  - name: Aaron Drinkwater
+    position: Part Time Sales Assistatn at Superdry
+    text: I am a keen and passionate games developer, who's love of gaming and programming mix together well to develop games.
     img: profile_1.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:james2.huxtable@uwe.ac.uk
+        url: AaronDrinkwaterBT@gmail.com
       - title: twitter
-        url: http://twitter.com/HuxyUK
+        url: 
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Those who can do and those who can't teach games design."
+about: "Computer Games Technology Graduate from the University of the West of England. A wide range of skills and cross-platform development, including:  C, C++, C#, Python, Unity, Unreal Engine, DirectX, Deep Learning and much more"
