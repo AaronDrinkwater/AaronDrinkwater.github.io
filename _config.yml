@@ -1,9 +1,9 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: UWEGAMES
-description: "Games development from an elder's persepective."
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+title: Aaron Drinkwater
+description: "My Portfolio."
+#analytics: #Google analytics code in the format XX-nnnnnnnn-n
 #baseurl: "/solid-jekyll" #important: start with /
 url: "https://AaronDrinkwater.github.io"
 
