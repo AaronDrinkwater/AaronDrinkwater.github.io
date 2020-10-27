@@ -4,7 +4,7 @@
 title: Aaron Drinkwater
 description: "My Portfolio."
 #analytics: #Google analytics code in the format XX-nnnnnnnn-n
-#baseurl: "/solid-jekyll" #important: start with /
+baseurl: "" #important: start with /
 url: "https://AaronDrinkwater.github.io"
 
 # Build settings
