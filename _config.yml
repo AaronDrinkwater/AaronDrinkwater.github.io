@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Aaron Drinkwater
+title:
 description: "My Portfolio."
 #analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
